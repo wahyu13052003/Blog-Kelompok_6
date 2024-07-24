@@ -83,4 +83,4 @@ php artisan serve
 ```
 ## License
 
-- Copyright © 2021 Kelompok 6.
+- Copyright © 2024 Kelompok 6.
