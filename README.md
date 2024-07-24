@@ -19,7 +19,7 @@
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel_8_blog.git
+git clone https://github.com/wahyu13052003/Blog-Kelompok_6.git
 ```
 
 **Download zip**
@@ -46,7 +46,7 @@ copy .env.example menjadi .env
 ## Buat database di localhost 
 
 ```bash
-nama database : laravel_8_blog
+nama database : blog
 ```
 
 ## Setting database di .env
