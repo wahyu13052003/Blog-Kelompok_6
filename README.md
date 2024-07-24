@@ -1,21 +1,4 @@
 <h1 align="center">Laravel Blog</h1>
-
-## Fitur 
-
-- Autentikasi Admin, Penulis dan Pembaca
-- CRUD Kategori
-- CRUD Tag
-- CRUD Post
-- CRUD Banner
-- CRUD Logo
-- CRUD Footer
-- CRUD Tentang/About
-- Rekomendasi post
-- Like post
-- Dan lain-lain
-
-## User
-
 **Admin**
 
 - email: admin@gmail.com
@@ -70,7 +53,7 @@ nama database : laravel_8_blog
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=laravel_8_blog
+DB_DATABASE=blog
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -98,12 +81,6 @@ php artisan storage:link
 ```bash
 php artisan serve
 ```
-
-## Contributing
-
-Contributions, issues and feature requests di persilahkan.
-Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Berhubung Project ini saya sudah selesaikan sendiri, namun banyak fitur yang kalian dapat tambahkan silahkan berkontribusi yaa!**
-
 ## License
 
-- Copyright © 2021 Musyahya.
+- Copyright © 2021 Kelompok 6.
