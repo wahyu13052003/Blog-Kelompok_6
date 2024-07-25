@@ -52,7 +52,7 @@
               </div>
             </div>
           </li>
-      @endrole
+      
 
       <!-- Nav Item - Utilities Collapse Menu -->
       <li class="nav-item @yield('pengaturan-active')">
@@ -68,6 +68,7 @@
           </div>
         </div>
       </li>
+    @endrole
 
        <!-- Divider -->
       <hr class="sidebar-divider">
