@@ -30,6 +30,7 @@
         <div id="main" class="collapse @yield('main')" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <a class="collapse-item @yield('post')" href="/post">Post</a>
+              @role('admin')
             <a class="collapse-item @yield('kategori')" href="/kategori">Kategori</a>
             <a class="collapse-item @yield('tag')" href="/tag">Tag</a>
             <a class="collapse-item @yield('banner')" href="/banner">Banner</a>
@@ -37,7 +38,7 @@
         </div>
       </li>
 
-      @role('admin')
+      
           <!-- Nav Item - Pages Collapse Menu -->
           <li class="nav-item @yield('user-active')">
             <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#user" aria-expanded="true" aria-controls="user">
